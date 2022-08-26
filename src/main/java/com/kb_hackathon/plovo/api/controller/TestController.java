@@ -1,4 +1,4 @@
-package com.kb_hackathon.plovo.controller;
+package com.kb_hackathon.plovo.api.controller;
 
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;

@@ -1,4 +1,4 @@
-package com.kb_hackathon.plovo.config;
+package com.kb_hackathon.plovo.config.swagger;
 
 import org.springframework.context.annotation.Configuration;
 import springfox.documentation.builders.ApiInfoBuilder;
